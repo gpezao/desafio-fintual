@@ -1,4 +1,4 @@
-## Desafía técnico Fintual 2026.
+## Desafía técnico Fintual 2026
 
 Como supuestos se asume que el usuario final es una persona natural con conocimiento básico de inversiones.
 
